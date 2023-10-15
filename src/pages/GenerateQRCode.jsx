@@ -1,6 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import Button from '@material-ui/core/Button';
-import QRCode from 'qrcode.react';
 
 
 const GenerateQRCode = () => {
